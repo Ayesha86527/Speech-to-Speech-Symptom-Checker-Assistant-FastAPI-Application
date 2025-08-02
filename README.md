@@ -1,0 +1,1 @@
+# Speech-to-Speech-Symptom-Checker-Assistant-FastAPI-Application
